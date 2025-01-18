@@ -1,7 +1,7 @@
 The Composite Design Pattern is used when you need to treat individual objects and compositions of objects uniformly. In the context of a banking application, this pattern can be applied to model hierarchical structures, such as account hierarchies, organizational units, or portfolio management.
 
 Example: Bank Account Portfolio
-In a banking application, customers might hold different types of accounts, such as:
+In a banking application, customers might hold different types of accounts, such as :
 
 1.Savings Accounts
 2.Current/Checking Accounts
