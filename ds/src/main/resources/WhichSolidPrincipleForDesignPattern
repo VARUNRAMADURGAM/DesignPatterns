@@ -1,9 +1,0 @@
-Summary Table:
-
-
-Adapter	- SRP, OCP
-Builder	- SRP, OCP
-Composite	- LSP, OCP
-Factory	- DIP, OCP
-Observer	- OCP, DIP
-Prototype	- SRP, OCP
