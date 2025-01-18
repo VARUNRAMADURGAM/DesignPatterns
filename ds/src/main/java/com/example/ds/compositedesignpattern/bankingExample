@@ -16,7 +16,7 @@ Structure
 
 
 public interface AccountComponent {
-    double getBalance();
+    double getBalance() ;
 }
 
 2.Leaf Class (Individual Account): Represents an individual account.
